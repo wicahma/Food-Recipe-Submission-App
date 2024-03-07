@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Food Recipes Submission App</string>
+    <string name="name">Teguh Dwi Cahya Kusuma</string>
+    <string name="classess">Bangkit-MD-39/2024/Q1</string>
+    <string name="role">Mobile Developer</string>
+    <string name="name_food">Name Food</string>
+    <string name="author">Author</string>
+    <string name="description">Stir the remnants of your Christmas pudding into a tub of vanilla ice cream for a super simple dessert</string>
+    <string name="detail_title_ingridients">Bahan bahan</string>
+    <string name="detail_ingredients">Ingridients</string>
+    <string name="detail_title_method">Cara memasak</string>
+    <string name="detail_method">Method</string>
+    <string name="see_outside">Lihat di website</string>
+    <string name="bangkit_email">a179d4ky4335@bangkit.academy</string>
+    <string name="description_abot">Merupakan seorang mahasiswa Jurusan Sistem Informasi Universitas Ahmad Dahlan, yang sekarang sedang menempuh program besutan Google berserta Perusahaan lainnya.</string>
 </resources>
